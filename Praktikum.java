@@ -1,1 +1,2 @@
-ghdfghdfb
+public static void main(){
+}
